@@ -1,9 +1,8 @@
-def using_times
-  for i in 1..7 do
+def using_for
+	checklist = 1..10
 	#your code here
-	 puts "Wingardium Leviosa"
+	for item in checklist
+    puts "Wingardium Leviosa"
+  end
 end
-
-
-
 
